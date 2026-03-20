@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- App internal files -->
+    <files-path name="files" path="."/>
+
+    <!-- App cache — this is where we copy picked files before getting a URI -->
+    <cache-path name="cache" path="."/>
+
+    <!-- External storage (Downloads) -->
+    <external-path name="external" path="."/>
+    <external-files-path name="external_files" path="."/>
+    <external-cache-path name="external_cache" path="."/>
+</paths>
